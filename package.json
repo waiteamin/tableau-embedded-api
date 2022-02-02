@@ -1,0 +1,21 @@
+{
+    "name": "tableau-embedded-api",
+    "version": "3.0.0",
+    "description": "Tableau Embedded API wrapped in a NPM module.",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/cklein-fe/tableau-embedded-api"
+    },
+    "author": {
+        "name": "Christian Klein",
+        "email": "christian.klein@foureyes.io"
+    },
+    "keywords": [
+        "tableau",
+        "embedded",
+        "api",
+        "connected",
+        "apps"
+    ]
+}
